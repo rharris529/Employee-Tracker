@@ -43,4 +43,4 @@ const chosen = function(answers) {
     }
 }
 
-module.exports = chosen;
+module.exports = {chosen};
